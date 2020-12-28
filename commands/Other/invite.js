@@ -10,7 +10,7 @@ module.exports = {
   usage: "invite",
   run: async (client, message, args) => {
     
-    const Invite = `https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot`, Owne = `<@${Owner}>`, Dev = `Legendary Emoji#1742`;
+    const Invite = `https://discordapp.com/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot`, Owne = `<@${Owner}>`, Dev = `Kristian#4047 & Hxnrique.#0001`;
     
     const Embed = new Discord.MessageEmbed()
     .setColor(Color)
