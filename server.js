@@ -1,3 +1,47 @@
+
+/*
+  /$$     /$$ /$$$$$$  /$$$$$$$$
+ |  $$   /$$//$$__  $$| $$_____/
+  \  $$ /$$/| $$  \ $$| $$      
+   \  $$$$/ | $$$$$$$$| $$$$$   
+    \  $$/  | $$__  $$| $$__/   
+     | $$   | $$  | $$| $$      
+     | $$   | $$  | $$| $$$$$$$$
+     |__/   |__/  |__/|________/
+    
+       ALL COPYRIGHTS ARE WELL RESERVED TO YAE & DEVELOPERS
+               1 - When using this source code, you are agreeing to only use for sel-hosting and not changing any embeds or else.
+                      2 - By agreeing with our small term you are good to continue
+    
+    
+    */
+                               
+                               
+                               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 const Discord = require("discord.js");
 const fs = require("fs");
 const db = require("wio.db");
